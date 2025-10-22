@@ -10,9 +10,12 @@
        style="border-radius: 20px;"/>
 </p>
 
+<h1 align="center">👋 Hi, I'm Methmal Deshapriya</h1>
+<h3 align="center">Empowering Ideas Through <span style="color:#8b5cf6">Intelligent Technology</span></h3>
+
 <p align="center">
   <a href="https://methmaldeshapriya.com/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="25" height="25" />
+    <img src="https://img.shields.io/badge/-Portfolio-8b5cf6?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/methmaldeshapriya" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
