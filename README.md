@@ -3,6 +3,14 @@
   <img src="https://raw.githubusercontent.com/Methmal-Deshapriya/Methmal-Deshapriya/main/assets/header-gradient.gif" width="100%" alt="Header Gradient Banner" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Methmal-Deshapriya/Methmal-Deshapriya/main/assets/methmal-profile.png" 
+       width="180" 
+       height="180" 
+       style="border-radius: 50%; border: 2px solid #8b5cf6;" 
+       alt="Methmal Deshapriya Profile Picture"/>
+</p>
+
 <h1 align="center">👋 Hi, I'm Methmal Deshapriya</h1>
 <h3 align="center">Empowering Ideas Through <span style="color:#8b5cf6">Intelligent Technology</span></h3>
 
