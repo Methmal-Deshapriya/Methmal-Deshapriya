@@ -38,15 +38,16 @@
 </p>
 
 
- <div align="center">
+<div align="center" style="position: relative; width: 100%; margin-top: 20px;">
   <div style="
     background: linear-gradient(135deg, #1f1b3a, #2d0b56, #3b0c81);
     border-radius: 12px;
     width: 270px;
     padding: 15px;
     box-shadow: 0 4px 20px rgba(0,0,0,0.6);
+    color: #e0e0e0;
     font-family: Segoe UI, sans-serif;
-    text-align: center">
+    text-align: center;">
     <div style="display:flex; align-items:center; gap:5px; justify-content:center; margin-bottom:10px;">
       <div style='width:12px; height:12px; border-radius:50%; background:#a855f7;'></div>
       <div style='width:12px; height:12px; border-radius:50%; background:#7e22ce;'></div>
@@ -63,6 +64,7 @@
     </div>
   </div>
 </div>
+
 
 
 
