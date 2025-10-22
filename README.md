@@ -13,6 +13,7 @@
    Hi, I'm <span style="color:#8b5cf6;">Methmal Deshapriya</span>
 </h1>
 
+<div>
 <p align="center">
   <a href="https://methmaldeshapriya.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-8b5cf6?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -31,7 +32,7 @@
   <img src="https://img.shields.io/badge/-AI%20&%20SaaS%20Builder-7c3aed?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/-Next.js%20Enthusiast-312e81?style=flat-square&logo=next.js&logoColor=white" />
 </p>
-
+</div>
 ---
 <p align="center">
   <img src="https://raw.githubusercontent.com/Methmal-Deshapriya/Methmal-Deshapriya/main/assets/favicon.png" width="50" height-"50" alt="Header Gradient Banner" />
