@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Methmal-Deshapriya/Methmal-Deshapriya/main/assets/header-gradient.gif" width="100%" alt="Header Gradient Banner" />
+  <img src="https://raw.githubusercontent.com/Methmal-Deshapriya/Methmal-Deshapriya/main/assets/favicon.png" width="100%" alt="Header Gradient Banner" />
 </p>
 
 <p align="center">
