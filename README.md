@@ -44,16 +44,16 @@
 
 <div align="center">
   <p>
-    <b>Full Stack Developer</b> crafting immersive, AI-driven web experiences.<br>
-    <b>Vision:</b> To bridge <span style="color:purple">intelligence</span> and <span style="color:#60a5fa;">creativity</span> through code.<br>
-    <b>Focus:</b> <i>Next.js, AI Integration, Human-Centered Design</i><br>
-    <b>Currently exploring:</b> <i>AWS • Docker • Cloud Architecture</i>
+    <b>Full Stack Developer</b> MERN & NextJS <br>
+    <b>Vision</b> To be an expert at what I do! <br>
+    <b>Focus</b> <i>Development, AI Integration, Data</i><br>
+    <b>Currently exploring</b> <i>Python Development • Machine learning • Cloud Architecture</i>
   </p>
 </div>
 
 ---
 
-### ⚡ Tech Arsenal  
+### <p align="center">Tech Arsenal</p>  
 
 <div align="center">
 
