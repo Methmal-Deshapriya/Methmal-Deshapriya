@@ -61,8 +61,9 @@
 </div>
 
 
+
 <!-- Passion Badges -->
-<div align="center">
+<div align="center" style="margin-top-2">
   <img src="https://img.shields.io/badge/Code_with_Passion-8b5cf6?style=for-the-badge&logo=heart&logoColor=white" />
   <img src="https://img.shields.io/badge/Build_with_AI-7c3aed?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Design_with_Minimalism-312e81?style=for-the-badge&logo=figma&logoColor=white" />
