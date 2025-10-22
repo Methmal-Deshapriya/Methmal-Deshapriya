@@ -1,9 +1,6 @@
 <!-- Banner -->
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Methmal-Deshapriya/Methmal-Deshapriya/main/assets/favicon.png" width="50" height-"50" alt="Header Gradient Banner" />
-</p>
 
   <p align="center">
   <img src="https://raw.githubusercontent.com/Methmal-Deshapriya/Methmal-Deshapriya/main/assets/methmal-profile.png" 
@@ -42,7 +39,10 @@
 
 
 ---
-das
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Methmal-Deshapriya/Methmal-Deshapriya/main/assets/favicon.png" width="50" height-"50" alt="Header Gradient Banner" />
+</p>
+
 
 ### <p align="center">About Me</p>  
 
