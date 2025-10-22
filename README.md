@@ -5,10 +5,9 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Methmal-Deshapriya/Methmal-Deshapriya/main/assets/methmal-profile.png" 
-       width="180" 
-       height="180" 
-       style="border-radius: 50%; border: 2px solid #8b5cf6;" 
-       alt="Methmal Deshapriya Profile Picture"/>
+       alt="Methmal Deshapriya Hero Image"
+       width="100%"
+       style="border-radius: 20px;"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Methmal Deshapriya</h1>
