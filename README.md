@@ -9,7 +9,7 @@
 </h3>
 
 
-<h1 align="center" style="font-size: 2.5rem; font-weight: 700; ">
+<h1 align="center">
    Hi, I'm <span style="color:#8b5cf6;">Methmal Deshapriya</span>
 </h1>
 
