@@ -1,132 +1,134 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Methmal-Deshapriya/Methmal-Deshapriya/main/assets/methmal-profile.png" 
-       alt="Methmal Deshapriya Hero Image"
+  <img src="https://raw.githubusercontent.com/Methmal-Deshapriya/Methmal-Deshapriya/main/assets/methmal-profile.png"
+       alt="Methmal Deshapriya Hero Banner"
        width="100%"
-       style="border-radius: 20px;"/>
+       style="border-radius: 18px; margin-bottom: 20px;" />
 </p>
-<h3 align="center" style="font-weight: 400; margin-top: 0;">
-  Passonate Full stack developer
+
+<h1 align="center" style="font-weight: 800; font-size: 2.4rem;">
+  Hi, I'm <span style="color:#8b5cf6;">Methmal Deshapriya</span>
+</h1>
+<h3 align="center" style="font-weight: 400; margin-top: -8px;">
+  🚀 Passionate Full Stack Developer | AI & SaaS Builder
 </h3>
 
-
-<h3 align="center" style="font-weight: 400; margin-top: 0;">
-   Hi, I'm <span style="color:#8b5cf6;">Methmal Deshapriya</span>
-</h3>
-
-<div>
-<p align="center">
+<p align="center" style="margin: 15px 0;">
   <a href="https://methmaldeshapriya.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-8b5cf6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/methmaldeshapriya" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:methmaldeshapriya@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-
 <p align="center">
-  <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-8b5cf6?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AI%20&%20SaaS%20Builder-7c3aed?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Next.js%20Enthusiast-312e81?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full_Stack_Developer-8b5cf6?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_&_SaaS_Builder-7c3aed?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js_Enthusiast-312e81?style=flat-square&logo=next.js&logoColor=white" />
 </p>
-</div>
+
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Methmal-Deshapriya/Methmal-Deshapriya/main/assets/favicon.png" width="50" height-"50" alt="Header Gradient Banner" />
-</p>
 
-
-### <p align="center">About Me</p>  
+<!-- About Me -->
+<h2 align="center">🧠 About Me</h2>
 
 <div align="center">
-  <p>
-    <b>Full Stack Developer</b> MERN & NextJS <br>
-    <b>Vision</b> To be an expert at what I do! <br>
-    <b>Focus</b> <i>Development, AI Integration, Data</i><br>
-    <b>Currently exploring</b> <i>Python Development • Machine learning • Cloud Architecture</i>
+  <p style="max-width: 600px;">
+    I’m a <b>Full Stack Developer</b> focused on building <b>scalable web solutions</b> with modern tools like <b>Next.js</b> and <b>React</b>.<br><br>
+    My goal is to merge <span style="color:#8b5cf6;">AI</span> with <span style="color:#60a5fa;">creativity</span> to craft efficient, human-centered digital experiences.<br><br>
+    🌱 Currently exploring: <i>Python Development • Machine Learning • Cloud Architecture</i>
   </p>
 </div>
 
 ---
 
-### <p align="center">Tech Arsenal</p>  
+<!-- Tech Stack -->
+<h2 align="center">⚙️ Tech Arsenal</h2>
 
 <div align="center">
 
-#### 💻 Core Stack
+#### 💻 Core Stack  
 <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind,mongodb,ts,js&theme=dark" />
 
-#### 🤖 AI / Backend Tools
+#### 🤖 AI / Backend Tools  
 <img src="https://skillicons.dev/icons?i=python,django,flask,java,postman,vercel&theme=dark" />
 
-#### 🧩 Dev & Design Toolkit
+#### 🧩 Dev & Design Toolkit  
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,aws,docker&theme=dark" />
 
 </div>
 
 ---
 
+<!-- Passion Badges -->
 <div align="center">
   <img src="https://img.shields.io/badge/Code_with_Passion-8b5cf6?style=for-the-badge&logo=heart&logoColor=white" />
   <img src="https://img.shields.io/badge/Build_with_AI-7c3aed?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Design_with_Minimalism-312e81?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
-
 ---
 
-### <p align="center">GitHub Insights</p>
+<!-- GitHub Insights -->
+<h2 align="center">📊 GitHub Insights</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Methmal-Deshapriya&color=8b5cf6&style=flat-square" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Methmal-Deshapriya&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Methmal-Deshapriya&layout=compact&theme=radical&hide_border=true" height="150" />
-  # Classic stats
-![Methmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Methmal-Deshapriya&show_icons=true&theme=radical)
+</p>
 
-# Top languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Methmal-Deshapriya&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Methmal-Deshapriya&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Methmal-Deshapriya&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
 
-# Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Methmal-Deshapriya&theme=radical)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Methmal-Deshapriya&theme=tokyonight&hide_border=true&border_radius=8" height="150" />
+</p>
 
- <img src="https://streak-stats.demolab.com?user=Methmal-Deshapriya&theme=tokyonight&hide_border=true&border_radius=8" />
- ![Methmal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Methmal-Deshapriya&theme=tokyo-night)
- ![Methmal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Methmal-Deshapriya&theme=tokyo-night)
- ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-![Spotify](https://novatorem.vercel.app/api/spotify)
-![3D Profile](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/profile-green-animate.svg)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Methmal-Deshapriya&theme=darkhub&no-bg=true&no-frame=true)
-![Profile views](https://komarev.com/ghpvc/?username=Methmal-Deshapriya&color=8b5cf6&style=flat-square)
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Methmal-Deshapriya&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-### 🕹️ Fun Facts  
+<!-- Extra Fun Widgets -->
+<h2 align="center">🎧 A Little Extra</h2>
 
-- 🧩 I love minimalist design and functional interfaces  
-- 🎧 Always coding with synthwave or lo-fi beats  
-- 🐍 The terminal is my comfort zone  
-- 🦾 Building my dream AI SaaS in progress  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/profile-night-view.svg" height="300" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Methmal-Deshapriya&theme=onestar&no-frame=true&margin-w=10" />
+</p>
 
 ---
 
-### 📊 Contribution Graph  
+<!-- Fun Facts -->
+<h2 align="center">🕹️ Fun Facts</h2>
 
-![Methmal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Methmal-Deshapriya&theme=tokyo-night&hide_border=true)
+<p align="center">
+🌙 I love minimal, functional design <br>
+🎧 Always coding with synthwave or lo-fi beats <br>
+🐍 The terminal feels like home <br>
+🦾 Currently building my dream AI SaaS product
+</p>
 
 ---
 
-### 🚀 Let’s Build the Future Together  
+<!-- Contact -->
+<h2 align="center">🚀 Let’s Build the Future Together</h2>
 
-If you’re working on **AI, SaaS, or creative web experiences**,  
-let’s connect and make something that matters.  
+<p align="center">
+If you’re working on <b>AI, SaaS, or creative web experiences</b>, let’s connect and make something that matters.  
+</p>
 
 <p align="center">
   <a href="https://methmaldeshapriya.com/#contact">
@@ -136,9 +138,6 @@ let’s connect and make something that matters.
 
 ---
 
-</div>
-
 <p align="center">
-  <sub>© 2025 Methmal Deshapriya</sub>
+  <sub>© 2025 Methmal Deshapriya • Designed with ❤️ & Intelligence</sub>
 </p>
-
