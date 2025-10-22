@@ -117,7 +117,7 @@ If you’re working on <b>AI, SaaS, or creative web experiences</b>, let’s con
 
 <p align="center">
   <a href="https://methmaldeshapriya.com/#contact">
-    <img src="https://img.shields.io/badge/💬%20Contact%20Me--312e81?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/💬%20Contact%20Me-312e81?style=for-the-badge" />
   </a>
 </p>
 
