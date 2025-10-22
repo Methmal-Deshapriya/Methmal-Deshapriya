@@ -8,15 +8,14 @@
        width="100%"
        style="border-radius: 20px;"/>
 </p>
-<div style="background: linear-gradient(...);">
-<h1 align="center" style="font-size: 2.5rem; font-weight: 700; margin-bottom: 0;">
-   Hi, I'm <span style="color:#8b5cf6;">Methmal Deshapriya</span>
-</h1>
-
-
 <h3 align="center" style="font-weight: 400; margin-top: 0;">
   Passonate Full stack developer
 </h3>
+
+<div style="background: linear-gradient(...);">
+<h1 align="center" style="font-size: 2.5rem; font-weight: 700; ">
+   Hi, I'm <span style="color:#8b5cf6;">Methmal Deshapriya</span>
+</h1>
 
 <p align="center">
   <a href="https://methmaldeshapriya.com/" target="_blank">
@@ -36,32 +35,6 @@
   <img src="https://img.shields.io/badge/-AI%20&%20SaaS%20Builder-7c3aed?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/-Next.js%20Enthusiast-312e81?style=flat-square&logo=next.js&logoColor=white" />
 </p>
-
-
-<div align="center" style="width: 100%;">
-  <div style="
-    background: linear-gradient(135deg, #1f1b3a, #2d0b56, #3b0c81);
-    border-radius: 12px;
-    width: 270px;
-    padding: 15px;
-    text-align: center;">
-    <div style="display:flex; align-items:center; gap:5px; justify-content:center; margin-bottom:10px;">
-      <div style='width:12px; height:12px; border-radius:50%; background:#a855f7;'></div>
-      <div style='width:12px; height:12px; border-radius:50%; background:#7e22ce;'></div>
-      <div style='width:12px; height:12px; border-radius:50%; background:#c084fc;'></div>
-    </div>
-    <div style="font-size:14px; color:#f3f4f6; margin-bottom:4px;">
-      Thanks for visiting
-    </div>
-    <div style="font-size:12px; color:#cbd5e1;">
-      Keep scrolling — there’s more ↓
-    </div>
-   
-  </div>
-</div>
-
-
-
 
 ---
 <p align="center">
