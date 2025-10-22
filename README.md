@@ -61,7 +61,7 @@
 <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind,mongodb,ts,js&theme=dark" />
 
 #### 🤖 AI / Backend Tools
-<img src="https://skillicons.dev/icons?i=python,openai,flask,java,postman,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,django,flask,java,postman,vercel&theme=dark" />
 
 #### 🧩 Dev & Design Toolkit
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,aws,docker&theme=dark" />
@@ -79,33 +79,15 @@
 
 ---
 
-### ⚙️ My GitHub Insights  
+### <p align="center">GitHub Insights</p>
 
 <p align="center">
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Methmal-Deshapriya&color=8b5cf6&style=flat-square" />
+</p>
   <img src="https://github-readme-stats.vercel.app/api?username=Methmal-Deshapriya&show_icons=true&theme=radical&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Methmal-Deshapriya&layout=compact&theme=radical&hide_border=true" height="150" />
 </p>
-
----
-
-### 🧠 Featured Projects  
-
-| 🚀 Project | Description | Tech |
-|-------------|--------------|------|
-| [**Hotelza AI**](https://github.com/Methmal-Deshapriya/hotelza-ai) | AI-powered hotel booking system with personalization & analytics | Next.js, Stripe, MongoDB, Clerk, GPT API |
-| [**Imagify**](https://github.com/Methmal-Deshapriya/imagify-ai) | Image generator app using generative AI | React, Tailwind, OpenAI API |
-| [**CocoGo**](https://github.com/Methmal-Deshapriya/cocogo) | Mobile app for coconut harvesters | React Native, Firebase |
-| [**Portfolio Website**](https://methmaldeshapriya.com/) | Personal brand website showcasing my projects | Next.js, Tailwind, Framer Motion |
-
----
-
-### 🌍 My Journey  
-
-💡 Entered **University of Sri Jayewardenepura** in 2023 — pursuing **BSc in ICT**  
-🧩 Transitioned from **Frontend → Full Stack Developer**  
-⚡ Learning never stops — exploring AI, Cloud, and intelligent automation  
-
-> “Technology is the art of turning imagination into intelligent reality.”  
 
 ---
 
@@ -124,20 +106,6 @@
 
 ---
 
-### 🐍 Contribution Snake  
-
-![snake gif](https://github.com/Methmal-Deshapriya/Methmal-Deshapriya/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 📈 Profile Stats  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Methmal-Deshapriya&color=8b5cf6&style=flat-square" />
-</p>
-
----
-
 ### 🚀 Let’s Build the Future Together  
 
 If you’re working on **AI, SaaS, or creative web experiences**,  
@@ -152,6 +120,6 @@ let’s connect and make something that matters.
 ---
 
 <p align="center">
-  <sub>© 2025 Methmal Deshapriya | Designed with ❤️ & Intelligence</sub>
+  <sub>© 2025 Methmal Deshapriya</sub>
 </p>
 
