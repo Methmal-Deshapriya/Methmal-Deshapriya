@@ -9,9 +9,9 @@
 </h3>
 
 
-<h2 align="center">
+<h3 align="center" style="font-weight: 400; margin-top: 0;">
    Hi, I'm <span style="color:#8b5cf6;">Methmal Deshapriya</span>
-</h2>
+</h3>
 
 <div>
 <p align="center">
