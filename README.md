@@ -42,18 +42,40 @@
 
 ### 🧠 About Me  
 
-💻 **Full Stack Developer** exploring the edge of **AI-powered experiences**.  
-🚀 Building scalable digital ecosystems that merge **creativity** & **intelligence**.  
-🎯 Passionate about **Next.js**, **AI integration**, and **human-centered design**.  
-🌱 Currently learning: **AWS | Docker | Cloud Architecture**  
+<div align="center">
+  <p>
+    <b>💻 Full Stack Developer</b> crafting immersive, AI-driven web experiences.<br>
+    <b>🚀 Vision:</b> To bridge <span style="color:#8b5cf6;">intelligence</span> and <span style="color:#60a5fa;">creativity</span> through code.<br>
+    <b>🎯 Focus:</b> <i>Next.js, AI Integration, Human-Centered Design</i><br>
+    <b>🌱 Currently exploring:</b> <i>AWS • Docker • Cloud Architecture</i>
+  </p>
+</div>
 
 ---
 
-### 🧩 Tech Arsenal  
+### ⚡ Tech Arsenal  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,mongodb,js,ts,python,java,html,css,git,figma,aws,vscode" />
-</p>
+<div align="center">
+
+#### 💻 Core Stack
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind,mongodb,ts,js&theme=dark" />
+
+#### 🤖 AI / Backend Tools
+<img src="https://skillicons.dev/icons?i=python,openai,flask,java,postman,vercel&theme=dark" />
+
+#### 🧩 Dev & Design Toolkit
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,aws,docker&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Code_with_Passion-8b5cf6?style=for-the-badge&logo=heart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Build_with_AI-7c3aed?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design_with_Minimalism-312e81?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
+
 
 ---
 
