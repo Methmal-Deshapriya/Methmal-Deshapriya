@@ -38,15 +38,12 @@
 </p>
 
 
-<div align="center" style="position: relative; width: 100%; margin-top: 20px;">
+<div align="center" style="width: 100%;">
   <div style="
     background: linear-gradient(135deg, #1f1b3a, #2d0b56, #3b0c81);
     border-radius: 12px;
     width: 270px;
     padding: 15px;
-    box-shadow: 0 4px 20px rgba(0,0,0,0.6);
-    color: #e0e0e0;
-    font-family: Segoe UI, sans-serif;
     text-align: center;">
     <div style="display:flex; align-items:center; gap:5px; justify-content:center; margin-bottom:10px;">
       <div style='width:12px; height:12px; border-radius:50%; background:#a855f7;'></div>
@@ -59,9 +56,7 @@
     <div style="font-size:12px; color:#cbd5e1;">
       Keep scrolling — there’s more ↓
     </div>
-    <div style="margin-top:15px;">
-      <img src="https://cdn-icons-png.flaticon.com/512/25/25294.png" width="36" height="36" alt="Scroll Icon"/>
-    </div>
+   
   </div>
 </div>
 
