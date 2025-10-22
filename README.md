@@ -4,9 +4,9 @@
        width="100%"
        style="border-radius: 20px;"/>
 </p>
-<h3 align="center" style="font-weight: 400; margin-top: 0;">
+<h1 align="center" style="font-weight: 400; margin-top: 0;">
   Passonate Full stack developer
-</h3>
+</h1>
 
 
 <p align="center">
