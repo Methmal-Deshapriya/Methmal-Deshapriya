@@ -37,6 +37,37 @@
   <img src="https://img.shields.io/badge/-Next.js%20Enthusiast-312e81?style=flat-square&logo=next.js&logoColor=white" />
 </p>
 
+<div align="center" style="position: relative; width: 100%; margin-top: 20px;">
+  <div style="
+    background-color:#121212;
+    border-radius:12px;
+    width:270px;
+    padding:15px;
+    box-shadow:0 4px 15px rgba(0,0,0,0.5);
+    color:#d1d5db;
+    font-family:Segoe UI, sans-serif;
+    text-align:center;">
+    
+    <div style="display:flex; align-items:center; gap:5px; padding-left:10px; margin-bottom:10px;">
+      <div style='width:12px; height:12px; border-radius:50%; background:#7214ff;'></div>
+      <div style='width:12px; height:12px; border-radius:50%; background:#883bfc;'></div>
+      <div style='width:12px; height:12px; border-radius:50%; background:#ad77fd;'></div>
+    </div>
+    
+    <div style="font-size:14px; color:#e2e8f0; margin-bottom:4px;">
+      Thanks for visiting
+    </div>
+    <div style="font-size:12px; color:#9ca3af;">
+      Keep scrolling — there’s more ↓
+    </div>
+    
+    <div style="margin-top:15px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/25/25294.png" width="36" height="36" alt="Scroll Icon"/>
+    </div>
+  </div>
+</div>
+
+
 
 ---
 <p align="center">
