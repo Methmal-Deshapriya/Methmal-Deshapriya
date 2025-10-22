@@ -82,11 +82,29 @@
 ### <p align="center">GitHub Insights</p>
 
 <p align="center">
-  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Methmal-Deshapriya&color=8b5cf6&style=flat-square" />
-</p>
   <img src="https://github-readme-stats.vercel.app/api?username=Methmal-Deshapriya&show_icons=true&theme=radical&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Methmal-Deshapriya&layout=compact&theme=radical&hide_border=true" height="150" />
+  # Classic stats
+![Methmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Methmal-Deshapriya&show_icons=true&theme=radical)
+
+# Top languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Methmal-Deshapriya&layout=compact&theme=radical)
+
+# Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=Methmal-Deshapriya&theme=radical)
+
+ <img src="https://streak-stats.demolab.com?user=Methmal-Deshapriya&theme=tokyonight&hide_border=true&border_radius=8" />
+ ![Methmal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Methmal-Deshapriya&theme=tokyo-night)
+ ![Methmal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Methmal-Deshapriya&theme=tokyo-night)
+ ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![Spotify](https://novatorem.vercel.app/api/spotify)
+![3D Profile](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/profile-green-animate.svg)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Methmal-Deshapriya&theme=darkhub&no-bg=true&no-frame=true)
+![Profile views](https://komarev.com/ghpvc/?username=Methmal-Deshapriya&color=8b5cf6&style=flat-square)
+
 </p>
 
 ---
