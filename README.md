@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/Next.js_Enthusiast-312e81?style=flat-square&logo=next.js&logoColor=white" />
 </p>
 
----
 
 <!-- About Me -->
 <h2 align="center">🧠 About Me</h2>
@@ -43,7 +42,7 @@
   </p>
 </div>
 
----
+
 
 <!-- Tech Stack -->
 <h2 align="center">⚙️ Tech Arsenal</h2>
@@ -61,7 +60,6 @@
 
 </div>
 
----
 
 <!-- Passion Badges -->
 <div align="center">
@@ -70,7 +68,7 @@
   <img src="https://img.shields.io/badge/Design_with_Minimalism-312e81?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
----
+
 
 <!-- GitHub Insights -->
 <h2 align="center">📊 GitHub Insights</h2>
@@ -92,7 +90,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Methmal-Deshapriya&theme=tokyo-night&hide_border=true" />
 </p>
 
----
 
 <!-- Extra Fun Widgets -->
 <h2 align="center">🎧 A Little Extra</h2>
@@ -109,7 +106,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Methmal-Deshapriya&theme=onestar&no-frame=true&margin-w=10" />
 </p>
 
----
+
 
 <!-- Fun Facts -->
 <h2 align="center">🕹️ Fun Facts</h2>
@@ -121,7 +118,6 @@
 🦾 Currently building my dream AI SaaS product
 </p>
 
----
 
 <!-- Contact -->
 <h2 align="center">🚀 Let’s Build the Future Together</h2>
@@ -136,7 +132,7 @@ If you’re working on <b>AI, SaaS, or creative web experiences</b>, let’s con
   </a>
 </p>
 
----
+
 
 <p align="center">
   <sub>© 2025 Methmal Deshapriya • Designed with ❤️ & Intelligence</sub>
