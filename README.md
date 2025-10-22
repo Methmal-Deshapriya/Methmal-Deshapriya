@@ -10,20 +10,41 @@
        style="border-radius: 20px;"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm Methmal Deshapriya</h1>
-<h3 align="center">Empowering Ideas Through <span style="color:#8b5cf6">Intelligent Technology</span></h3>
+<h1 align="center" style="font-size: 2.5rem; font-weight: 700; margin-bottom: 0;">
+  👋 Hi, I'm <span style="color:#8b5cf6;">Methmal Deshapriya</span>
+</h1>
+<h3 align="center" style="font-weight: 400; margin-top: 0;">
+  Empowering Ideas Through <span style="color:#a78bfa;">Intelligent Technology</span>
+</h3>
 
-<p align="center">
-  <a href="https://methmaldeshapriya.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-8b5cf6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<p align="center" style="margin-top: 1rem;">
+  <a href="https://methmaldeshapriya.com/" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="28" style="vertical-align: middle; margin-right:6px;" />
+    <b>Portfolio</b>
   </a>
-  <a href="https://linkedin.com/in/methmaldeshapriya" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/methmaldeshapriya" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="28" style="vertical-align: middle; margin-right:6px;" />
+    <b>LinkedIn</b>
   </a>
-  <a href="mailto:methmaldeshapriya@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:methmaldeshapriya@gmail.com" style="text-decoration:none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="28" style="vertical-align: middle; margin-right:6px;" />
+    <b>Email</b>
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/Methmal-Deshapriya" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="28" style="vertical-align: middle; margin-right:6px;" />
+    <b>GitHub</b>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-8b5cf6?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AI%20&%20SaaS%20Builder-7c3aed?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Next.js%20Enthusiast-312e81?style=flat-square&logo=next.js&logoColor=white" />
+</p>
+
 
 ---
 
