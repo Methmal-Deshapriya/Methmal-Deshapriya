@@ -91,23 +91,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Methmal-Deshapriya&theme=tokyo-night&hide_border=true" />
 </p>
 
-
-<!-- Extra Fun Widgets -->
-<h2 align="center">🎧 A Little Extra</h2>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/profile-night-view.svg" height="300" />
-</p>
+###
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Methmal-Deshapriya&theme=onestar&no-frame=true&margin-w=10" />
 </p>
-
-
 
 <!-- Fun Facts -->
 <h2 align="center">🕹️ Fun Facts</h2>
@@ -115,8 +103,8 @@
 <p align="center">
 🌙 I love minimal, functional design <br>
 🎧 Always coding with synthwave or lo-fi beats <br>
-🐍 The terminal feels like home <br>
-🦾 Currently building my dream AI SaaS product
+🐍 I Can't sleep without getting the job done <br>
+
 </p>
 
 
@@ -129,12 +117,12 @@ If you’re working on <b>AI, SaaS, or creative web experiences</b>, let’s con
 
 <p align="center">
   <a href="https://methmaldeshapriya.com/#contact">
-    <img src="https://img.shields.io/badge/💬%20Contact%20Me-purple?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/💬%20Contact%20Me--312e81?style=for-the-badge" />
   </a>
 </p>
 
 
 
 <p align="center">
-  <sub>© 2025 Methmal Deshapriya • Designed with ❤️ & Intelligence</sub>
+  <sub>© 2025 Methmal Deshapriya </sub>
 </p>
