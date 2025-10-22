@@ -20,22 +20,22 @@
 <p align="center" style="margin-top: 1rem;">
   <a href="https://methmaldeshapriya.com/" target="_blank" style="text-decoration:none;">
     <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="28" style="vertical-align: middle; margin-right:6px;" />
-    <b>Portfolio</b>
+    
   </a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://linkedin.com/in/methmaldeshapriya" target="_blank" style="text-decoration:none;">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="28" style="vertical-align: middle; margin-right:6px;" />
-    <b>LinkedIn</b>
+    
   </a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="mailto:methmaldeshapriya@gmail.com" style="text-decoration:none;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="28" style="vertical-align: middle; margin-right:6px;" />
-    <b>Email</b>
+ 
   </a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://github.com/Methmal-Deshapriya" target="_blank" style="text-decoration:none;">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="28" style="vertical-align: middle; margin-right:6px;" />
-    <b>GitHub</b>
+
   </a>
 </p>
 
