@@ -11,10 +11,10 @@
 </p>
 
 <h1 align="center" style="font-size: 2.5rem; font-weight: 700; margin-bottom: 0;">
-  👋 Hi, I'm <span style="color:#8b5cf6;">Methmal Deshapriya</span>
+   Hi, I'm <span style="color:#8b5cf6;">Methmal Deshapriya</span>
 </h1>
 <h3 align="center" style="font-weight: 400; margin-top: 0;">
-  Empowering Ideas Through <span style="color:#a78bfa;">Intelligent Technology</span>
+  Passonate Full stack developer
 </h3>
 
 <p align="center">
